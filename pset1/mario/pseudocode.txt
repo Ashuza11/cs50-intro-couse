@@ -1,0 +1,6 @@
+Prompting the user for input using get_int function
+Add some logic to get the number between 1 and 8
+if the input is invalid re-prompt the user for an other input(using a loop)
+if the input is correct Iterate from 1 through height
+printout the result
+

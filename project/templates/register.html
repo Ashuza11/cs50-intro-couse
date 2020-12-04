@@ -1,0 +1,184 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Register
+{% endblock %}
+
+{% block body %}
+
+  <!-- Page breadcrumb -->
+    <section id="mu-page-breadcrumb">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="mu-page-breadcrumb-area">
+              <h2>Register</h2>
+              <ol class="breadcrumb">
+                <li><a href="/" target="blink">Home</a></li>
+                <li class="active">Rergister</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  <!-- End breadcrumb -->
+
+  <!-- Start Register  -->
+    <section id="mu-contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="mu-contact-area">
+              <!-- start title -->
+              <div class="mu-title">
+                <h2>Club Membership Registration</h2>
+                <p class="">
+                  Complete the form below to sign up for our membership  service.
+                </p>
+              </div>
+              <!-- end title -->
+              <!-- start contact content -->
+
+              <div class="mu-contact-content">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="mu-contact-left">
+                      <form class="contactform" action="/register" method="post">
+                        <p class="comment-form-author">
+                          <label for="author"
+                            >Name <span class="required">*</span></label
+                          >
+                          <input
+                            autofocus class="form-control"
+                            autocomplete="off"
+                            type="text"
+                            required="required"
+                            placeholder="Enter your name"
+                            size="30"
+                            id="username"
+                            name="username"
+                            value=""
+                          />
+                        </p>
+                        <label for="faculty">Faculty<span class="required">*</span></label>
+                        <select autofocus class="form-control" id="faculty" name="faculty">
+                            <option disabled selected value="">Please choose an option</option>
+                            {% for faculty in faculty %}
+                              <option value="{{ faculty }}">{{ faculty }}</option>
+                            {% endfor %}
+
+                        </select>
+
+                        <label for="level">Level<span class="required">*</span></label>
+                        <select autofocus class="form-control" id="level_selector" name="level">
+                            <option disabled selected value="">Please choose an option</option>
+                            {% for level in level %}
+                              <option value="{{ level }}">{{ level }}</option>
+                            {% endfor %}
+                        </select>
+                        <p class="comment-form-email">
+                          <label for="email"
+                            >E-mail <span class="required">*</span></label
+                          >
+                          <input
+                            autofocus class="form-control"
+                            autocomplete="off"
+                            type="email"
+                            required="required"
+                            placeholder="Enter your e-mail adress"
+                            aria-required="true"
+                            value=""
+                            name="email"
+                          />
+                        </p>
+                         <p class="comment-form-email">
+                          <label for="phone"
+                            >Phone Number<span class="required">*</span></label
+                          >
+                          <input
+                            name="phone"
+                            type="tel"
+                            id="phone"
+                            autofocus class="form-control"
+                            autocomplete="off"
+                            required="required"
+                            placeholder="Enter your phone number"
+                            pattern="(\+[0-9]{1,3}|0)[0-9]{9}"
+                            required
+                            value=""
+                          />
+                        </p>
+                        <p class="comment-form-author">
+                          <label for="author"
+                          >Password <span class="required">*</span></label>
+                          <input
+                           autofocus class="form-control"
+                            name="password"
+                            placeholder="Enter your password"
+                            type="password"
+                            required="required"
+                            size="30"
+                            value=""
+                          />
+                        </p>
+                        <p class="comment-form-author">
+                          <label for="author"
+                            >Repeat password <span class="required">*</span></label
+                          >
+                          <input
+                           autofocus class="form-control"
+                            name="confirmation"
+                            placeholder="Enter your password(again)"
+                            type="password"
+                            required="required"
+                            size="30"
+                            value=""
+                          />
+                        </p>
+
+                        <div class="form-radio">
+                            <label for="gender" class="radio-label">Gender :</label>
+                            <div class="form-radio-item">
+                                <input type="radio" name="gender" id="male" value="Man" checked>
+                                <label for="male">Man</label>
+                                <span class="check"></span>
+                            </div>
+                            <div class="form-radio-item">
+                                <input type="radio" name="gender" value="Women" id="female">
+                                <label for="female">Women</label>
+                                <span class="check"></span>
+                            </div>
+                        </div>
+
+                        <p class="form-submit">
+                          <input
+                            type="submit"
+                            value="register"
+                            class="mu-post-btn"
+                            name="submit"
+                          />
+                      </form>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="mu-contact-right">
+                      <a>
+                        <img src="https://i.gifer.com/M4ZF.gif">
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <p class="loginhere">
+                Have already an account ? <a href="/login" class="loginhere-link">Login here</a>
+              </p>
+              <!-- end registraction content -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  <!-- End Registraction  -->
+
+{% endblock %}
