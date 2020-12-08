@@ -4,4 +4,3 @@ You can find the materials for the course <a href='https://cs50.harvard.edu/x/20
 Hope this is helpful to other students, you are free to contact me for any question or clarification, and if you don't mind please leave a star!
 Every exercise in this repository scored 100% on submission.
 
-## Table Of Contents
