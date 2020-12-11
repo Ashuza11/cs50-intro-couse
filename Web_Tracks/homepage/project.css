@@ -1,0 +1,35 @@
+/* the body */
+body
+{
+    background: url("mycover.jpg") fixed center;
+    line-height: 1.6em;
+    margin: 0;
+    background-repeat: no-repeat;
+
+}
+/* project form */
+.pro-form
+{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+    border: 3px dotted green;
+    margin: 20px 0;
+    opacity: .8;
+    border-radius: 10px;
+
+}
+.title
+{
+    font:  italic 20px Arial, Tahoma;
+    text-align: center;
+}
+.paragraph
+{
+    margin: inherit;
+}
+.container
+{
+    width: 60%;
+    margin: auto;
+}
