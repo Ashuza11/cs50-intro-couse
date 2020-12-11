@@ -47,7 +47,7 @@ Every exercise in this repository scored 100% on submission.
     Follow [the instructions](https://github.com/Federico-abss/Lispy#using-cs50-ide-step-by-step) to try it in your ide!
 
 ### Final Certificate!
-![Final Certificate](CS50%20certificate.png)
+![Final Certificate](cs50x.png)
 
 ### DISCLAIMER:
 Please don't just copy the code mindlessly without trying to solve the problems yourself, it's totally pointless if you actually wanna learn how to write software and a blatant violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
