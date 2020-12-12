@@ -23,20 +23,19 @@ Every exercise in this repository scored 100% on submission.
   - [tideman](/C/pset3/tideman)
 - [Problem Set 4: Forensics](/C/pset4) - <a href='https://cs50.harvard.edu/x/2020/psets/4/'> Assignments 4</a>
   - filter
-    - [less](/C/pset4/filter)
-    - [more](/C/pset4/border-detection)
-  - [recover](/C/pset4/recover)
+    - [less](/C/pset4/)
+    - [more](/C/pset4/filter_less)
+  - [recover](/C/pset4/filter_more)
 - [Problem Set 5: Speller](/C/pset5/speller) - <a href='https://cs50.harvard.edu/x/2020/psets/5/speller/'> Speller assignment</a>
   - [dictionary.c](/C/pset5/speller/dictionary.c)
-- [Problem Set 6: Python](/Python/pset6/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Assignments 6</a>
-  - [hello](/Python/pset6/hello)
+- [Problem Set 6: Python](/Python/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Assignments 6</a>
+  - [hello](/Python/pset6/hello/)
   - mario
-    - [less](/Python/pset6/mario/less)
-    - [more](/Python/pset6/mario/more)
-  - [cash](/Python/pset6/cash)
-  - [credit](/Python/pset6/credit)
-  - [readability](/Python/pset6/readability)
-  - [dna](/Python/pset6/dna)
+    - [more](/Python/pset6/mario/)
+  - [cash](/Python/pset6/cash/)
+  - [credit](/Python/pset6/credit/)
+  - [readability](/Python/pset6/readability/)
+  - [dna](/Python/pset6/dna/)
 - [Problem Set 7: SQL](/Python/pset7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Assignments 7</a>
   - [movies](/Python/pset7/movies)
   - [houses](/Python/pset7/houses/houses)
