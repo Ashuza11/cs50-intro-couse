@@ -19,8 +19,8 @@ Every exercise in this repository scored 100% on submission.
   - [readability](/C/pset2/readability)
 - [Problem Set3: Elections](/C/pset3) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Assignments 3</a>
   - [plurality](/C/pset3/plurality)
-  - [runoff](/C/pset3/runoff)
-  - [tideman](/C/pset3/tideman)
+  - [Runoff](/C/pset3/Runoff)
+  - [Tideman](/C/pset3/Tideman)
 - [Problem Set 4: Forensics](/C/pset4) - <a href='https://cs50.harvard.edu/x/2020/psets/4/'> Assignments 4</a>
   - filter
     - [less](/C/pset4/)
