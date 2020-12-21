@@ -1,6 +1,6 @@
 ###
 
-# credit.py
+# Redability.py
 
 # M. Ashuza
 

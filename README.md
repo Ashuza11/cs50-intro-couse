@@ -39,7 +39,7 @@ Every exercise in this repository scored 100% on submission.
   - [dna](/Python/pset6/dna/)
 - [Problem Set 7: SQL](/Python/pset7/) - <a href='https://cs50.harvard.edu/x/2020/psets/7/'> Assignments 7</a>
   - [movies](/Python/pset7/movies)
-  - [houses](/Python/pset7/houses/houses)
+  - [houses](/Python/pset7/houses)
 - [Problem Set 8: Web](/Python/finance) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
   - [finance](/Python/finance)
 - [Final Project: Lispy](https://github.com/Federico-abss/Lispy)
