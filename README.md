@@ -23,7 +23,7 @@ Every exercise in this repository scored 100% on submission.
   - [Tideman](/C/pset3/Tideman)
 - [Problem Set 4: Forensics](/C/pset4) - <a href='https://cs50.harvard.edu/x/2020/psets/4/'> Assignments 4</a>
   - filter
-    - [less](/C/pset4/filter_less)
+    - [less](/C/pset4//filter_less)
     - [more](/C/pset4/filter_more)
   - [recover](/C/pset4/recover)
 - [Problem Set 5: Speller](/C/pset5/speller) - <a href='https://cs50.harvard.edu/x/2020/psets/5/speller/'> Speller assignment</a>
