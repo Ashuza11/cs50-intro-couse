@@ -23,15 +23,16 @@ Every exercise in this repository scored 100% on submission.
   - [Tideman](/C/pset3/Tideman)
 - [Problem Set 4: Forensics](/C/pset4) - <a href='https://cs50.harvard.edu/x/2020/psets/4/'> Assignments 4</a>
   - filter
-    - [less](/C/pset4/)
-    - [more](/C/pset4/filter_less)
-  - [recover](/C/pset4/filter_more)
+    - [less](/C/pset4/filter_less)
+    - [more](/C/pset4/filter_more)
+  - [recover](/C/pset4/recover)
 - [Problem Set 5: Speller](/C/pset5/speller) - <a href='https://cs50.harvard.edu/x/2020/psets/5/speller/'> Speller assignment</a>
   - [dictionary.c](/C/pset5/speller/dictionary.c)
 - [Problem Set 6: Python](/Python/) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Assignments 6</a>
   - [hello](/Python/pset6/hello/)
   - mario
-    - [more](/Python/pset6/mario/)
+    - [less](/Python/pset6/mario/less)
+    - [more](/Python/pset6/mario/more)
   - [cash](/Python/pset6/cash/)
   - [credit](/Python/pset6/credit/)
   - [readability](/Python/pset6/readability/)
