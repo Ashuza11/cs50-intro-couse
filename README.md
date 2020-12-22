@@ -43,9 +43,9 @@ Every exercise in this repository scored 100% on submission.
 - [Problem Set 8: Web](/Web_Tracks) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
   - [Home Page](/Web_Tracks/homepage)
   - [finance](/Web_Tracks/finance)
-- [Final Project: LEBC-Engish-Club web app](https://github.com/Federico-abss/Lispy)
-  - An interpreted, functional programming language based on Lisp and written in C. <br>
-    Follow [the instructions](https://github.com/Federico-abss/Lispy#using-cs50-ide-step-by-step) to try it in your ide!
+- [Final Project: LEBC-Engish-Club web app](https://github.com/Ashuza11/cs50-intro-couse/tree/main/final_project)
+  - A modern and dynamic Web App for an English Club  written in Python(Flask), HTML, CSS, BOOTSTRAP, SQL, JAVASCRIPT... <br>
+    Test it [here:](#)
 
 ### Final Certificate!
 
