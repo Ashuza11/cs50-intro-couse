@@ -41,8 +41,8 @@ Every exercise in this repository scored 100% on submission.
   - [movies](/Python/pset7/movies)
   - [houses](/Python/pset7/houses)
 - [Problem Set 8: Web](/Web_Tracks) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
-  - [Home Page](/Web_Tracks/finance)
-  - [finance](/Web_Tracks/homepage)
+  - [Home Page](/Web_Tracks/homepage)
+  - [finance](/Web_Tracks/finance)
 - [Final Project: LEBC-Engish-Club web app](https://github.com/Federico-abss/Lispy)
   - An interpreted, functional programming language based on Lisp and written in C. <br>
     Follow [the instructions](https://github.com/Federico-abss/Lispy#using-cs50-ide-step-by-step) to try it in your ide!
